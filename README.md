@@ -1,4 +1,4 @@
-# Login with Firebase, React, and Typescript
+# Login with React, Firebase, and Typescript
 
 This is fully-functional. There are only minimal comments in the code.
 
